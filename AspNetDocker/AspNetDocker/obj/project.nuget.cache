@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4TgFgfqyl/S0iDf8R1lXUt71wlm1qM0X+d8LMmAvIrK3zXUmL0MfIxEeKXah+psvD8zqTltNjQMwqaJOg1on1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Valniria\\Estudos\\.Net\\testesProjetos\\aspnetDocker\\AspNetDocker\\AspNetDocker\\AspNetDocker.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valni\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\valni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMbNJYzi+VaxP68YtPeaif8Gbch7FyrFkBQ7mq8JqPC37/WSPVzf4F5ZlL/6Pn8rTnqsLWK27X3cH0FKxB6fuA==",
+  "success": true,
+  "projectFilePath": "C:\\Valniria\\Estudos\\.Net\\testesProjetos\\aspnetDocker\\AspNetDocker\\AspNetDocker.Domain\\AspNetDocker.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
